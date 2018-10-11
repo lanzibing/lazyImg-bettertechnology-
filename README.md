@@ -1,1 +1,2 @@
 # lazyImg-bettertechnology-
+用intersection observer监听元素是否可见的时候不需要监听scroll事件
